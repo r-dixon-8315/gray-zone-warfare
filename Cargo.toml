@@ -1,0 +1,6 @@
+[package]
+name = "tool-core98"
+version = "0.6.0"
+edition = "2021"
+
+[dependencies]
